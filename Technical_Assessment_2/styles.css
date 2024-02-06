@@ -32,6 +32,10 @@
     margin-right: 50px;
 }
 
+.card {
+    color: navy;
+}
+
 .projects {
     margin-top: calc(25rem / 16);
     margin-bottom: calc(25rem / 16);
